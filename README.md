@@ -17,12 +17,12 @@ See pdf file in the repository for cardiac memory calculation methods.
 
 ### Cardiac Memory MATLAB Code
 
-TBD
+memory_angle_all_plot.m
 
 ### Test files
 
-TBD
+provided
 
 ### Manuscripts to reference:
 
-in preparation
+under review
