@@ -17,9 +17,9 @@ See pdf file in the repository for cardiac memory calculation methods.
 
 ### Cardiac Memory MATLAB Code
 
-memory_angle_all_plot.m
-CAMI_qrst_angle.m
-CAMI_plots2.m
+#### memory_angle_all_plot.m
+#### CAMI_qrst_angle.m
+#### CAMI_plots2.m
 
 ### Test files
 
