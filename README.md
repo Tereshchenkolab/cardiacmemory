@@ -5,7 +5,7 @@ Cardiac Memory measurement
   - cardiac memory definition and calculation
   - CM MATLAB Code
   - Test file 
-  - data as .fig files: QRS and T loops after 7 days of pacing AAI7 - DDD7
+  - data for all 20 participants are provided within .fig files: QRS and T loops after 7 days of pacing in AAI and DDD mode. AAI-7 to DDD-7 angles and vectors are plotted
   
 ### Authors
 CM calculation code V.1
