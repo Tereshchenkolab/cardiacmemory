@@ -5,6 +5,7 @@ Cardiac Memory measurement
   - cardiac memory definition and calculation
   - CM MATLAB Code
   - Test file 
+  - data as .fig files: QRS and T loops after 7 days of pacing AAI7 - DDD7
   
 ### Authors
 CM calculation code V.1
