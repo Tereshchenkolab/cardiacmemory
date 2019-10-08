@@ -23,4 +23,4 @@ Last update: 8-29-19
 under review
 
 ### Data analyzed in the manuscript
-Fully de-identified raw digital ECG signal is provided within MATLAB .fig files. Fig files contain data matrix, and represent three-dimensional vectorcardiographic loops: QRS and T loops after 7 days of pacing, in AAI and DDD mode. AAI-7 and DDD-7 angles and vectors are plotted. 
+See folder "QRS_T_DDD2_AAI2". Fully de-identified raw digital ECG signal is provided within MATLAB .fig files. Fig files contain data matrix, and represent three-dimensional vectorcardiographic loops: QRS and T loops after 7 days of pacing, in AAI and DDD mode. AAI-7 and DDD-7 angles and vectors are plotted. 
