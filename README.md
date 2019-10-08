@@ -3,13 +3,13 @@ Cardiac Memory measurement
 
 ## Table of Content
   - CM MATLAB Code
-  - data for all 20 participants are provided within .fig files: QRS and T loops after 7 days of pacing in AAI and DDD mode. AAI-7 to DDD-7 angles and vectors are plotted
+  - fully de-identified digital ECG signal data (median beat with identified time-coherent origin point) for 20 participants are provided within .fig files: QRS and T loops after 7 days of pacing in AAI and DDD mode. AAI-7 to DDD-7 angles and vectors are plotted. See folder "QRS_T_DDD2_AAI2". 
   
 ### Authors
 CM calculation code V.1
 Kazi Haq, PhD, <haqk@ohsu.edu>
 Larisa Tereshchenko, MD, PhD, <tereshch@ohsu.edu>
-Last update: 8-29-19
+Last update: 10-7-19
   
 
 ### Cardiac Memory MATLAB Code
@@ -20,7 +20,7 @@ Last update: 8-29-19
 
 ### Manuscripts to reference:
 
-under review
+medRxiv 19005181; doi: https://doi.org/10.1101/19005181. under peer review
 
 ### Data analyzed in the manuscript
-See folder "QRS_T_DDD2_AAI2". Fully de-identified raw digital ECG signal is provided within MATLAB .fig files. Fig files contain data matrix, and represent three-dimensional vectorcardiographic loops: QRS and T loops after 7 days of pacing, in AAI and DDD mode. AAI-7 and DDD-7 angles and vectors are plotted. 
+See folder "QRS_T_DDD2_AAI2". Fully de-identified digital ECG signal (median beat with identified time-coherent origin point) is provided within MATLAB .fig files. Fig files contain data matrix, and represent three-dimensional vectorcardiographic loops: QRS and T loops after 7 days of pacing, in AAI and DDD mode. AAI-7 and DDD-7 angles and vectors are plotted. 
