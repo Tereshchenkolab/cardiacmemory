@@ -17,6 +17,8 @@ Last update: 10-7-19
 - CAMI_qrst_angle.m    
 - CAMI_plots2.m
 
+### STATA code for statistical analyses of the data
+- STATA_code_CAMI_GitHub.do
 
 ### Manuscripts to reference:
 
