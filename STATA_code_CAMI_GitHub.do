@@ -12,6 +12,7 @@ gen trpSVGaz = (pSVGazV1*2)+360
 
 
 ***unadjusted paired comparison of day 1 and day 7 measurements
+***data in a WIDE file format
 
 ttest a1_sai == a7_sai
 ttest a1_psvgmag == d1_psvgmag
@@ -43,14 +44,6 @@ circcomp a1_asvgel a7_asvgel , det
 circcomp d1_asvgel d7_asvgel , det
 circcomp d1_ptaz d7_ptaz , det
 
-*****regression analysis in a WIDE file format
-regress qrsddd2_taai2_mean  age  gender   mi lvef sustained   acearb
-regress qrsddd2_taai2_mean  age  gender   mi lvef sustained   acearb
-regress CMpeak age gender lvef  mi qrsaai1_qrsddd2 a1areatelevation_deg
-regress CMpeak age gender lvef  mi qrsaai1_qrsddd2 a1tpeaktotend_ms
-regress CMpeak age gender lvef  mi qrsaai1_qrsddd2 a1qrsduration_ms a1areat_mvms
-regress CMpeak age gender lvef  mi  a1qrsduration_ms a1areat_mvms
-regress CMpeak age gender lvef  mi  a1qrsduration_ms a1areat_mvms qrsaai1_qrsaai2
 
 
 
