@@ -21,6 +21,7 @@ Last update: 10-7-19
 - STATA_code_CAMI_GitHub.do
 
 ### Manuscripts to reference:
+K. T. Haq, J. Cao and L. G. Tereshchenko. Characteristics of Cardiac Memory in Patients with Implanted Cardioverter-defibrillators: The Cardiac Memory with Implantable Cardioverter-defibrillator (CAMI) Study. J Innov Card Rhythm Manag 2021 Vol. 12 Issue 2 Pages 4395-4408. https://pubmed.ncbi.nlm.nih.gov/33654571/ PMID: 33654571 PMCID: PMC7909362 DOI: 10.19102/icrm.2021.120204
 
 medRxiv 19005181; doi: https://doi.org/10.1101/19005181. under peer review
 
