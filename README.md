@@ -23,7 +23,6 @@ Last update: 10-7-19
 ### Manuscripts to reference:
 K. T. Haq, J. Cao and L. G. Tereshchenko. Characteristics of Cardiac Memory in Patients with Implanted Cardioverter-defibrillators: The Cardiac Memory with Implantable Cardioverter-defibrillator (CAMI) Study. J Innov Card Rhythm Manag 2021 Vol. 12 Issue 2 Pages 4395-4408. https://pubmed.ncbi.nlm.nih.gov/33654571/ PMID: 33654571 PMCID: PMC7909362 DOI: 10.19102/icrm.2021.120204
 
-medRxiv 19005181; doi: https://doi.org/10.1101/19005181. under peer review
 
 ### Data analyzed in the manuscript
 See folder "QRS_T_DDD2_AAI2". Fully de-identified digital ECG signal (median beat with identified time-coherent origin point) is provided within MATLAB .fig files. Fig files contain data matrix, and represent three-dimensional vectorcardiographic loops: QRS and T loops after 7 days of pacing, in AAI and DDD mode. AAI-7 and DDD-7 angles and vectors are plotted. Fig files are compressed. Use openfig.m file to open Fig files. Place openfig.m file in the same folder with Fig files to make it convenient.
